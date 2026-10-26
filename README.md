@@ -1,1 +1,3 @@
 # learn-github
+
+Since 2016, Ksher has been building integrated digital financial infrastructure for businesses operating across borders. Rooted in Southeast Asia and connected globally, our local payments and fund-movement network reaches more than 190 countries and regions, helping businesses operate across Asia-Pacific and emerging markets. After a decade in payments, Ksher serves more than 200,000 active merchants and has processed over US$10 billion in cumulative transaction value. Our local compliance network and financial technology continue to support payment acceptance, collections, payments, FX and fund management.
